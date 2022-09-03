@@ -381,7 +381,7 @@ a.nav-link {
 }
 
 a.nav-link:hover{
-  background-color: #000;
+  background-color: #000!important;
   color: #7213DC;
 
 }
@@ -390,6 +390,10 @@ a.nav-link:hover{
 }
 .btn-primary:hover{
   background-color: #7213DC;
+}
+
+.btn-primary:hover{
+  border-color: #7213DC;
 }
 
 img.card-img-top {

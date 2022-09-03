@@ -380,12 +380,24 @@ a.nav-link {
     font-weight:500;
 }
 
-a.nav-link:hover,.btn-primary:hover{
+a.nav-link:hover{
   background-color: #000;
   color: #7213DC;
 
 }
+.btn-primary {
+    border-color: black;
+}
+.btn-primary:hover{
+  background-color: #7213DC;
+}
 
+img.card-img-top {
+    height: 228px;
+}
+.card-title:hover{
+  color: #7213DC;
+}
 
 .navbar-brand > a:visited, .navbar-brand > a:hover {
   text-decoration: underline;

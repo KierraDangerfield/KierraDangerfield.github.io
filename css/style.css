@@ -382,6 +382,7 @@ a.nav-link {
 a.nav-link:hover{
   background-color: #000;
   color: #7213DC;
+  font-weight: 300;
 }
 
 .navbar-brand > a:visited, .navbar-brand > a:hover {

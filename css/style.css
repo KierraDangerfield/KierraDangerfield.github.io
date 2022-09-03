@@ -380,11 +380,12 @@ a.nav-link {
     font-weight:500;
 }
 
-a.nav-link:hover{
+a.nav-link:hover,.btn-primary:hover{
   background-color: #000;
   color: #7213DC;
 
 }
+
 
 .navbar-brand > a:visited, .navbar-brand > a:hover {
   text-decoration: underline;

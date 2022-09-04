@@ -482,10 +482,6 @@ a.page-scroller {
   padding: 1em;
 }
 
-.card.d-none.d-md-block {
-    width: 400px;
-}
-
 .carousel-control-prev,
 .carousel-control-next {
   background-color: #e1e1e1;

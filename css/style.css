@@ -461,6 +461,17 @@ a.page-scroller {
     margin: 0 auto;
   }
 }
+
+/*=====GALLERY=================================*/
+.cards-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.card img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 /*--------------------------------------------------------------
 ## Links
 --------------------------------------------------------------*/

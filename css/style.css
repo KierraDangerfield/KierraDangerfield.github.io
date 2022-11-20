@@ -403,6 +403,10 @@ img.card-img-top {
   color: #7213DC;
 }
 
+.col.col-12.col-lg-4 {
+    padding: 25px;
+}
+
 .navbar-brand > a:visited, .navbar-brand > a:hover {
   text-decoration: underline;
 }
